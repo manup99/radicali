@@ -8,3 +8,6 @@
 #npm install --save redux-thunk#<br /><br />
 #npm install --save prop-types#<br /><br />
 #npm install --save react-router-dom#<br /><br />
+And Finally:<br />
+#npm start#
+
