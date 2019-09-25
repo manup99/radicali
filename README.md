@@ -1,10 +1,10 @@
 # radicali
 ##To run this application you need to run following commands in your Source Code Editor:
-\n
+<br />
 #npm install#\n
-#npm install react-bootstrap bootstrap#\n
-#npm install --save redux#\n
-#npm install --save react-redux#\n
-#npm install --save redux-thunk#\n
-#npm install --save prop-types#\n
-#npm install --save react-router-dom#\n
+#npm install react-bootstrap bootstrap#<br />
+#npm install --save redux#<br />
+#npm install --save react-redux#<br />
+#npm install --save redux-thunk#<br />
+#npm install --save prop-types#<br />
+#npm install --save react-router-dom#<br />
